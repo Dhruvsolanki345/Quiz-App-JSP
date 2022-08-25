@@ -1,4 +1,4 @@
-# Online-Examination-System 
+# Quiz-App-JSP (Online-Examination-System) 
 
 ## Description
 
